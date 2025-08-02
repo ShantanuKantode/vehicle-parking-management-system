@@ -1,0 +1,8 @@
+# Python 3.12.2
+
+streamlit
+streamlit-extras
+streamlit-lottie
+mysql-connector-python
+polars
+python-dotenv
